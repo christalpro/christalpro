@@ -1,6 +1,14 @@
 # Hey I am Christal 👋
 
-[!Gmail Badge]
+![Email Badge](https://img.shields.io/badge/christal.bowerspro@gmail.com-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CDlink=mailto:${christal.bowerspro@gmail.com})
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&link=linkedin.com%2Fin%2Fchristal-bowers-ingram)](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&link=linkedin.com%2Fin%2Fchristal-bowers-ingram
+)
+[![Static Badge](https://img.shields.io/badge/Resume-purple?style=flat-square&link=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1oo_SSLk09tveRxHrP4_DeFVt3iy-0D22gBgf54G2s4c%2Fedit%3Fusp%3Dsharing)](https://img.shields.io/badge/Resume-purple?style=flat-square&link=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1oo_SSLk09tveRxHrP4_DeFVt3iy-0D22gBgf54G2s4c%2Fedit%3Fusp%3Dsharing
+)
+
+
+
+
 
 I work with data because I like knowing what’s actually happening.
 
