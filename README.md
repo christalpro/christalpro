@@ -1,5 +1,7 @@
 # Hey I am Christal 👋
 
+[!Gmail Badge]
+
 I work with data because I like knowing what’s actually happening.
 
 I’m building my career in Business Intelligence and Data Analytics with a focus on making information useful — not overwhelming. I enjoy cleaning messy datasets, identifying patterns, and building dashboards that answer real business questions.
