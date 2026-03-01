@@ -1,4 +1,4 @@
-## Hey I am Christal 👋
+# Hey I am Christal 👋
 
 I work with data because I like knowing what’s actually happening.
 
@@ -25,9 +25,9 @@ If you need someone who will treat your data like a decision-making asset — I�
 
 ## Links
 
-Resume: https://docs.google.com/document/d/1oo_SSLk09tveRxHrP4_DeFVt3iy-0D22gBgf54G2s4c/edit?usp=sharing
+Check out my [Resume](https://docs.google.com/document/d/1oo_SSLk09tveRxHrP4_DeFVt3iy-0D22gBgf54G2s4c/edit?usp=sharing)
 
-LinkedIn: https://linkedin.com/in/christal-bowers-ingram
+Connect with me on [LinkedIn](https://linkedin.com/in/christal-bowers-ingram)
 
 
 ## A Few Things About Me
