@@ -8,40 +8,27 @@
 
 ### [👉🏽Resume👈🏽](https://docs.google.com/document/d/1oo_SSLk09tveRxHrP4_DeFVt3iy-0D22gBgf54G2s4c/edit?usp=sharing)  
   
-### Glad to see you here!  
-I work with data because I like knowing what’s actually happening.
+### Nice to see you here!  
+Data intrigues me because it tells a story on the business systems and what’s actually happening.
 
 I’m building my career in Business Intelligence and Data Analytics with a focus on making information useful — not overwhelming. I enjoy cleaning messy datasets, identifying patterns, and building dashboards that answer real business questions.
 
 This GitHub houses projects centered around revenue trends, customer behavior, performance reporting, and analytical storytelling.  
-  
-
-<br/>  
-
 
 
 ## What I’m Looking For  
 - Business Intelligence Analyst roles
 
-
 - Data Analyst roles  
   
-
 ## A Few Things About Me  
 - 💸 I genuinely enjoy understanding how businesses make money.
   
   
-
 - ⬆️ I’m building long-term, not just looking for a job.  
   
 
 - ⚡ Fun Fact: I make music on the side for fun.  
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
@@ -53,11 +40,6 @@ This GitHub houses projects centered around revenue trends, customer behavior, p
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
 </div>  
-
-<br/>  
-
-
-</td><td valign="top" width="50%">
 
 
 
