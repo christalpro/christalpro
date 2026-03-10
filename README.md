@@ -4,7 +4,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
-[![Gmail Badge](https://img.shields.io/badge/-christalpro@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:christalpro@outlook.com)](mailto:christalpro@outlook.com) 
+[![Gmail Badge](https://img.shields.io/badge/-christal.bowerspro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:christalpro@outlook.com)](mailto:christal.bowerspro@gmail.com) 
 
 ### [👉🏽Resume👈🏽](https://docs.google.com/document/d/1oo_SSLk09tveRxHrP4_DeFVt3iy-0D22gBgf54G2s4c/edit?usp=sharing)  
   
