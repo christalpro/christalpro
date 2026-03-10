@@ -1,16 +1,12 @@
-## Hey 😊, I'm Christal Bowers-Ingram!  
-  
+## Hey 👋🏽, I'm Christal Bowers-Ingram!   
 
-<a href="https://github.com/christalpro" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/christal-bowers-ingram" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
+[![Gmail Badge](https://img.shields.io/badge/-christalpro@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:christalpro@outlook.com)](mailto:christalpro@outlook.com) 
 
-### [➡️Resume⬅️](https://docs.google.com/document/d/1oo_SSLk09tveRxHrP4_DeFVt3iy-0D22gBgf54G2s4c/edit?usp=sharing)  
-  
+### [👉🏽Resume👈🏽](https://docs.google.com/document/d/1oo_SSLk09tveRxHrP4_DeFVt3iy-0D22gBgf54G2s4c/edit?usp=sharing)  
   
 ### Glad to see you here!  
 I work with data because I like knowing what’s actually happening.
@@ -22,18 +18,16 @@ This GitHub houses projects centered around revenue trends, customer behavior, p
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
 
 
-
-### What I’m Looking For  
+## What I’m Looking For  
 - Business Intelligence Analyst roles
 
 
 - Data Analyst roles  
   
 
-### A Few Things About Me  
+## A Few Things About Me  
 - 💸 I genuinely enjoy understanding how businesses make money.
   
   
@@ -42,9 +36,6 @@ This GitHub houses projects centered around revenue trends, customer behavior, p
   
 
 - ⚡ Fun Fact: I make music on the side for fun.  
-
-
-
 
 
 
@@ -68,21 +59,5 @@ This GitHub houses projects centered around revenue trends, customer behavior, p
 
 </td><td valign="top" width="50%">
 
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 
