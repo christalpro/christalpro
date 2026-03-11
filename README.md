@@ -8,10 +8,11 @@
 
 ### [👉🏽Resume👈🏽](https://docs.google.com/document/d/1oo_SSLk09tveRxHrP4_DeFVt3iy-0D22gBgf54G2s4c/edit?usp=sharing)  
   
-### Nice to see you here!  
-Data intrigues me because it tells a story on the business systems and what’s actually happening.
+### Bring it in 🤗!  
 
 I’m building my career in Business Intelligence and Data Analytics with a focus on making information useful — not overwhelming. I enjoy cleaning messy datasets, identifying patterns, and building dashboards that answer real business questions.
+
+Data intrigues me because it tells a story on the business systems and what’s actually happening.
 
 This GitHub houses projects centered around revenue trends, customer behavior, performance reporting, and analytical storytelling.  
 
@@ -22,13 +23,13 @@ This GitHub houses projects centered around revenue trends, customer behavior, p
 - Data Analyst roles  
   
 ## A Few Things About Me  
-- 💸 I genuinely enjoy understanding how businesses make money.
+- 💸 I genuinely enjoy understanding how businesses make, grow, and maintain money.
   
   
 - ⬆️ I’m building long-term, not just looking for a job.  
   
 
-- ⚡ Fun Fact: I make music on the side for fun.  
+- ⚡ Fun Fact: I enjoy creative expression like music production and dance .  
 
 
 ## Languages and Tools  
