@@ -8,7 +8,7 @@
 
 ### [👉🏽Resume👈🏽](https://docs.google.com/document/d/1oo_SSLk09tveRxHrP4_DeFVt3iy-0D22gBgf54G2s4c/edit?usp=sharing)  
   
-### Bring it in 🤗!  
+### ✨ Thanks for visiting! ✨!  
 
 I’m building my career in Business Intelligence and Data Analytics with a focus on making information useful — not overwhelming. I enjoy cleaning messy datasets, identifying patterns, and building dashboards that answer real business questions.
 
