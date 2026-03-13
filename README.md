@@ -19,7 +19,9 @@ This GitHub houses projects centered around revenue trends, customer behavior, p
 
 ## What I’m Looking For  
 - Business Intelligence Analyst roles
-
+- Marketing Analyst roles
+- Operations Analyst roles
+- Product Analyst roles
 - Data Analyst roles  
   
 ## A Few Things About Me  
